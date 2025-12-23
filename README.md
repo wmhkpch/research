@@ -71,7 +71,7 @@ Laboratory-based investigation of immune dysfunction during sepsis, with emphasi
 
 ## Additional Academic Projects
 
-### Genomic Data Analysis Coursework
+### Genomic Data Analysis 
 Applied statistical and computational techniques to genomic datasets.
 
 `Genomics_Data_Analysis_Report.pdf`
@@ -81,7 +81,7 @@ Applied statistical and computational techniques to genomic datasets.
 ### Natural Language Processing Project
 Developed and evaluated NLP pipelines for healthcare-related text analysis.
 
-NLP_Healthcare_Project_Report.pdf`
+
 
 ---
 
